@@ -1,6 +1,7 @@
 .header {
     background: darkred;
     opacity: 0.7;
+    background-image: url("11.png");
 }
 .header img {
   width: 100px;
