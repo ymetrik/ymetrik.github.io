@@ -5,7 +5,7 @@ ul.products li {
     text-align: center; /* align the image to center */
     background-color:white ; /* background color of each */
     font-family: "Trebuchet MS", Helvetica, sans-serif; 
-    font-size: 12px;
+    font-size: 20px;
     border-radius: 8px; /* rounded borders effect */
     border: 1px solid #585858; /* border and color */
    opacity: 0.8;
